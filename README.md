@@ -2,7 +2,7 @@
 
 Bu repository, Türkiye'nin tüm il, ilçe, mahalle ve köy bilgilerini JSON formatında içermektedir.
 
-## Dosyalar
+## JSON Dosyalar
 
 ### `turkiye-il-ilce-mahalle-koy.json`
 Bu dosya, [il-ilce-mahalle-geolocation-rest-api](https://github.com/melihkorkmaz/il-ilce-mahalle-geolocation-rest-api) projesinden alınan veriler JSON formatına dönüştürülerek oluşturulmuştur.
