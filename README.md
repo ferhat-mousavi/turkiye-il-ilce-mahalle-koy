@@ -34,7 +34,7 @@ cankaya_mahalleleri = turkiye_veri['Ankara']['Çankaya']
 print(cankaya_mahalleleri)  # Liste olarak mahalle listesi
 ```
 
-## 📊 Veri Yapısı
+## Veri Yapısı
 
 ```json
 {
