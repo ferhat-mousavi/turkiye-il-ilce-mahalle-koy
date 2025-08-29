@@ -53,7 +53,7 @@ print(cankaya_mahalleleri)  # Liste olarak mahalle listesi
 - **İlçe seviyesi:** Her ile bağlı ilçeler
 - **Mahalle/Köy seviyesi:** Her ilçeye bağlı mahalle ve köy isimleri dizi (array) formatında
 
-## 🤝 Katkıda Bulunanlar
+## Katkıda Bulunanlar
 
 - Orijinal veri kaynakları:
   - [@melihkorkmaz](https://github.com/melihkorkmaz) 
